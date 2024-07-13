@@ -7,7 +7,7 @@ Brief description of your project, its purpose, and main features.
 ## Setup
 Instructions on how to set up the project in Databricks:
 
-1. Import the notebook(s) into your Databricks workspace
+1. Import the notebook(s) in to your Databricks workspace
 2. Configure any necessary cluster settings
 3. Install required libraries (list them here)
 
